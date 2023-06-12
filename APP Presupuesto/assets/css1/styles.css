@@ -1,0 +1,44 @@
+.presupuesto-div {
+    border: 0.4em solid rgba(57, 170, 57, 0.868);
+    background-color: rgba(15, 136, 15, 0.336);
+}
+
+.gasto-div {
+    border: 0.4em solid rgba(233, 19, 19, 0.998);
+    background-color: rgba(184, 26, 26, 0.473);
+}
+
+.presupuesto-btn{
+    border: 0.15em solid rgba(57, 170, 57, 0.868);
+    color:rgba(57, 170, 57, 0.868);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gasto-btn{
+    border: 0.15em solid rgba(233, 19, 19, 0.998);
+    color:rgba(233, 19, 19, 0.998);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.redondeado { 
+    border-radius: 4.5%;
+}
+
+.basurero-item {
+    height: 5px;
+    width: 5px;
+}
+
+.basurero-item{
+    height: 22px;
+    width: auto;
+    cursor: pointer;
+}
+
+.mini-tabla {
+    width: 2em;
+}
